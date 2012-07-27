@@ -15,10 +15,10 @@ name: Inline-JSON
 provides:
   Inline::JSON:
     file: lib/Inline/JSON.pm
-    version: 1.0
+    version: v1.0.1
 requires:
   JSON: 0
   perl: 5.01
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.0
+version: v1.0.1
